@@ -1,0 +1,44 @@
+Source: mx-apps
+Section: system
+Priority: optional
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Build-Depends: debhelper (>=7.0)
+Standards-Version: 3.9.5
+
+Package: mx-apps
+Architecture: all
+Depends:
+ cli-installer-mx,
+ mx-antix-libs,
+ mx-bootrepair,
+ mx-broadcom-manager,
+ mx-codecs,
+ mx-docs,
+ mx-findshares,
+ mx-flash,
+ mx-installer,
+ mx-live-usb-gui,
+ mx-menu-editor,
+ mx-packageinstaller,
+ mx-remaster,
+ mx-snapshot,
+ mx-switchuser,
+ mx-tools,
+ mx-user,
+ mx-viewer,
+ system-config-samba
+Breaks: docs-mx,
+ install-meta-mx,
+ installer-mx,
+ remaster-mx,
+ switchuser-mx,
+ user-management-mx
+Replaces: docs-mx,
+ install-meta-mx,
+ installer-mx,
+ remaster-mx,
+ switchuser-mx,
+ user-management-mx
+Description: metapackage for MX applets
+ This metapackage depends on all the MX applets, and helps ease upgrades to new
+ releases of MX Linux. 

@@ -1,0 +1,67 @@
+mx-apps (14.9+nmu1) UNRELEASED; urgency=medium
+
+  * MX-15 beta version 
+
+ -- anticapitalista <antiX@operamail.com>  Sat, 24 Oct 2015 19:19:10 +0300
+
+mx-apps (14.9) mx; urgency=medium
+
+  * Do MX 15 alpha version, remove apt-mxmepis.
+
+ -- Steven Pusser (Stevo) <maintainer@mepiscommunity.org>  Thu, 11 Jun 2015 15:09:24 -0700
+
+mx-apps (14.4.03) mx; urgency=medium
+
+  * Add a dependency on mx-broadcom-manager.
+
+ -- Steven Pusser (Stevo) <maintainer@mepiscommunity.org>  Wed, 10 Jun 2015 14:11:35 -0700
+
+mx-apps (14.4.02) mx; urgency=medium
+
+  * Add a dependency on mx-menu-editor
+
+ -- Timothy E. Harris <maintainer@mepiscommunity.org>  Wed, 03 Jun 2015 19:22:03 -0400
+
+mx-apps (14.4.01) mx; urgency=medium
+
+  * Add a dependency on apt-mxmepis.
+
+ -- Steven Pusser (Stevo) <maintainer@mepiscommunity.org>  Sat, 04 Apr 2015 16:28:44 -0700
+
+mx-apps (14.4) mx; urgency=medium
+
+  * Depend on mx-antix-libs and mx-live-usb-gui.
+  * Package for 14.4 point release.
+
+ -- Steven Pusser (Stevo) <maintainer@mepiscommunity.org>  Sat, 14 Mar 2015 19:13:24 -0700
+
+mx-apps (14.3+3) mx; urgency=medium
+
+  *   * Depend on mx-remaster, remove dependencies on remaster-mx. 
+
+ -- Steven Pusser (Stevo) <maintainer@mepiscommunity.org>  Fri, 06 Mar 2015 15:29:15 -0800
+
+mx-apps (14.3+2) mx; urgency=medium
+
+  * Depend on mx-snapshot, remove dependencies on snapshot-cli-mx and 
+    snapshot-gui-mx.
+
+ -- Steven Pusser (Stevo) <maintainer@mepiscommunity.org>  Fri, 13 Feb 2015 16:21:30 -0800
+
+mx-apps (14.3+1) mx; urgency=medium
+
+  * Add system-config-samba to Depends.
+
+ -- Steven Pusser (Stevo) <maintainer@mepiscommunity.org>  Fri, 05 Dec 2014 11:21:46 -0800
+
+mx-apps (14.3~rc1mx143+2) mx; urgency=medium
+
+  * Bump versioning up to policy, add Replaces: to control file.
+
+ -- Steven Pusser (Stevo) <maintainer@mepiscommunity.org>  Tue, 25 Nov 2014 18:44:39 -0800
+
+mx-apps (0.14.3~rc1mx143+1) mx; urgency=low
+
+  * Initial package.
+
+ -- Steven Pusser (Stevo) <maintainer@mepiscommunity.org>  Tue, 25 Nov 2014 17:48:25 -0800
