@@ -1,3 +1,9 @@
+mx-apps (16.11) mx; urgency=medium
+
+  * Do MX 15 alpha version, remove apt-mxmepis.
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 07 Nov 2016 12:35:24 -0700
+
 mx-apps (14.9+nmu1) UNRELEASED; urgency=medium
 
   * MX-15 beta version 
