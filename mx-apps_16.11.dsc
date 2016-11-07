@@ -9,8 +9,8 @@ Build-Depends: debhelper (>= 7.0)
 Package-List:
  mx-apps deb system optional arch=all
 Checksums-Sha1:
- f7d3d0b51b6ab0b710cb4dc6b9ce3f11bd826558 17112 mx-apps_16.11.tar.xz
+ bbb9343baabd641bd50983b4c94834fd9cc2f330 17132 mx-apps_16.11.tar.xz
 Checksums-Sha256:
- 9c3b939218ead5f1b785d7fe52dfe5701ef82b21e0315027c8fbf12e679dd8ce 17112 mx-apps_16.11.tar.xz
+ 1915fd53e8ba64131356bb9dc39515aed05afba42102519fd2b3572617462b7e 17132 mx-apps_16.11.tar.xz
 Files:
- 935b1023e9171abe1520c362a8e038f9 17112 mx-apps_16.11.tar.xz
+ 580bc053f8552b63056519c8a74f7454 17132 mx-apps_16.11.tar.xz

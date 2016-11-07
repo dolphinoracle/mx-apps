@@ -35,7 +35,9 @@ Depends:
  mx-user,
  mx-viewer,
  mx-welcome,
- system-config-samba
+ system-config-samba,
+ live-kernel-updater,
+ live-usb-maker
 Breaks: docs-mx,
  install-meta-mx,
  installer-mx,

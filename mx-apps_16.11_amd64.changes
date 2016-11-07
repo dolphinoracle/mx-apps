@@ -15,14 +15,14 @@ Changes:
  .
    * Do MX 15 alpha version, remove apt-mxmepis.
 Checksums-Sha1:
- 67e79af85726e056bb7e53e6e628ec364affb020 527 mx-apps_16.11.dsc
- f7d3d0b51b6ab0b710cb4dc6b9ce3f11bd826558 17112 mx-apps_16.11.tar.xz
- 8ed145d81c370b3839bfa575e489353109f93568 16280 mx-apps_16.11_all.deb
+ dce30066fb4feeb273a1413433325693e1ab3d38 527 mx-apps_16.11.dsc
+ bbb9343baabd641bd50983b4c94834fd9cc2f330 17132 mx-apps_16.11.tar.xz
+ ac338672dcc7ea5841ec09f2b7bc9518f76ee4aa 16300 mx-apps_16.11_all.deb
 Checksums-Sha256:
- c2b06cc01fbcc27a6d980cca6f382ffa0e8f3873ff405c915a9eba1b9941d05f 527 mx-apps_16.11.dsc
- 9c3b939218ead5f1b785d7fe52dfe5701ef82b21e0315027c8fbf12e679dd8ce 17112 mx-apps_16.11.tar.xz
- 493960cb2aaf661697348688903ea44d29fe5731a6ddd415148518ac08a8c9e7 16280 mx-apps_16.11_all.deb
+ b6e8ce2c107e1126683b317ea3f3511875e5191e228b30bf181cb72defb2bef2 527 mx-apps_16.11.dsc
+ 1915fd53e8ba64131356bb9dc39515aed05afba42102519fd2b3572617462b7e 17132 mx-apps_16.11.tar.xz
+ 14ed026c7620b44fef80fe6002efa4b61218f0e1281f5139656af43096141dc7 16300 mx-apps_16.11_all.deb
 Files:
- ffd7476fec7917ddfc8af0ffb6d6db69 527 system optional mx-apps_16.11.dsc
- 935b1023e9171abe1520c362a8e038f9 17112 system optional mx-apps_16.11.tar.xz
- 605551e8c55d59c997621a9a2e2778b2 16280 system optional mx-apps_16.11_all.deb
+ 93ae4bc5bb04f4ed28d382199906cbfb 527 system optional mx-apps_16.11.dsc
+ 580bc053f8552b63056519c8a74f7454 17132 system optional mx-apps_16.11.tar.xz
+ 0af20997f86880476a0df3bf162a5b60 16300 system optional mx-apps_16.11_all.deb
