@@ -1,3 +1,9 @@
+mx-apps (16.11.01) mx; urgency=medium
+
+  * added ddm-mx
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 27 Nov 2016 18:35:24 -0700
+
 mx-apps (16.11) mx; urgency=medium
 
   * Do MX 15 alpha version, remove apt-mxmepis.

@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 27 Nov 2016 18:35:24 -0700
+Source: mx-apps
+Binary: mx-apps
+Architecture: source all
+Version: 16.11.01
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-apps    - metapackage for MX applets
+Changes:
+ mx-apps (16.11.01) mx; urgency=medium
+ .
+   * added ddm-mx
+Checksums-Sha1:
+ 7ea076d098e19a66408bb1059064be66922ff6b5 539 mx-apps_16.11.01.dsc
+ 56054dc06c2e372e321606d22af7840fa250064b 17352 mx-apps_16.11.01.tar.xz
+ f6deab04ef8e76a84c027658cbd3cf6f05c7e8eb 16332 mx-apps_16.11.01_all.deb
+Checksums-Sha256:
+ c51d3b8abe7bdd81f1affb28445c669ffc2fb7da8690e9c5293f7fedfb0dfa39 539 mx-apps_16.11.01.dsc
+ 7c575fbc6d5b2aec2030f305c3fd07b13e1ff9fc835bf2f29a9eb04c3b5915b5 17352 mx-apps_16.11.01.tar.xz
+ 9d0c2687a7904ba3cad3ded27fa11977c61dd37f560e1eae5f0159ad5c9f9cb5 16332 mx-apps_16.11.01_all.deb
+Files:
+ c148da107a3e6ce42ce839587350e102 539 system optional mx-apps_16.11.01.dsc
+ eef67ef22577216459ba35c29d12c7e9 17352 system optional mx-apps_16.11.01.tar.xz
+ 1060fc11df38900c55cdc5b87ba8ab7a 16332 system optional mx-apps_16.11.01_all.deb
