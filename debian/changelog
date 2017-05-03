@@ -1,6 +1,5 @@
 mx-apps (17.05) mx; urgency=medium
 
-  * removed mx-panel-orientation (deprecated)
   * removed mx-debian-backports-installer (deprecated)
   * removed mx-test-repo-installer (deprecated)
   * added apt-transport-https

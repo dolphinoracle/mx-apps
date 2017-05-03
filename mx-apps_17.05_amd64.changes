@@ -13,19 +13,18 @@ Description:
 Changes:
  mx-apps (17.05) mx; urgency=medium
  .
-   * removed mx-panel-orientation (deprecated)
    * removed mx-debian-backports-installer (deprecated)
    * removed mx-test-repo-installer (deprecated)
    * added apt-transport-https
 Checksums-Sha1:
- a1c31a95bcaeda4ae291dda2c9902f63e5ac206e 527 mx-apps_17.05.dsc
- b998cb5878b7d4abb25f9b154ad9d8587b5c8ea1 17224 mx-apps_17.05.tar.xz
- d4251f8c71d0bdf1813030ecd3c1d127ac88d86a 16464 mx-apps_17.05_all.deb
+ 8a311730a3f10e7dd80c5349d21d82b33443ea81 527 mx-apps_17.05.dsc
+ a5077b9621c0b1a258009a203c2dc6bfb96432fe 17212 mx-apps_17.05.tar.xz
+ d2bacb7e78c371c497867f0eb5892f4e6705dc69 16428 mx-apps_17.05_all.deb
 Checksums-Sha256:
- 3c93b7756f83b2150d942cc7c74dfa26944ef23e344ec98c5dd01911f4316b40 527 mx-apps_17.05.dsc
- caa8e7c3d431f49bffc8132c0cc268d2796a9dd47cc79da4edc02dee89fb4b1d 17224 mx-apps_17.05.tar.xz
- f11be36299d5a6917bc541682ad1d4fdf978ddaab1f021068aa3f0c8e69c9ed4 16464 mx-apps_17.05_all.deb
+ d0eeb328a700e8de162385fa7eccccdae2a6c676b2496329018c4f1bcb55d285 527 mx-apps_17.05.dsc
+ 3e96d86ad18262b9a269c64bc7e6e2fd369249f1fce875e604c56c7051310bad 17212 mx-apps_17.05.tar.xz
+ 21de4bafa105d43a0ca53d026a083995b2a76111248020067b367ea19b6d0b5c 16428 mx-apps_17.05_all.deb
 Files:
- 0f21d1a45e2f2e5e0faac26144ead8bf 527 system optional mx-apps_17.05.dsc
- e74b4cd66b2b6f73fa0310c4f7680b19 17224 system optional mx-apps_17.05.tar.xz
- 6d80dda68169e3ab64c5c9348c5d433b 16464 system optional mx-apps_17.05_all.deb
+ 14ad2c282d42178208cd0444c495cec7 527 system optional mx-apps_17.05.dsc
+ ffe80991e4746b6aaa7c52aee4ca05e2 17212 system optional mx-apps_17.05.tar.xz
+ c118f6e83cf55049b0d1bd7bad840649 16428 system optional mx-apps_17.05_all.deb
