@@ -2,15 +2,15 @@ Format: 3.0 (native)
 Source: mx-apps
 Binary: mx-apps
 Architecture: all
-Version: 16.11.01
+Version: 17.05
 Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
 Standards-Version: 3.9.5
 Build-Depends: debhelper (>= 7.0)
 Package-List:
  mx-apps deb system optional arch=all
 Checksums-Sha1:
- 56054dc06c2e372e321606d22af7840fa250064b 17352 mx-apps_16.11.01.tar.xz
+ b998cb5878b7d4abb25f9b154ad9d8587b5c8ea1 17224 mx-apps_17.05.tar.xz
 Checksums-Sha256:
- 7c575fbc6d5b2aec2030f305c3fd07b13e1ff9fc835bf2f29a9eb04c3b5915b5 17352 mx-apps_16.11.01.tar.xz
+ caa8e7c3d431f49bffc8132c0cc268d2796a9dd47cc79da4edc02dee89fb4b1d 17224 mx-apps_17.05.tar.xz
 Files:
- eef67ef22577216459ba35c29d12c7e9 17352 mx-apps_16.11.01.tar.xz
+ e74b4cd66b2b6f73fa0310c4f7680b19 17224 mx-apps_17.05.tar.xz

@@ -39,7 +39,8 @@ Depends:
  live-kernel-updater,
  live-usb-maker,
  live-usb-maker-gui,
- ddm-mx
+ ddm-mx,
+ apt-transport-https
 Breaks: docs-mx,
  install-meta-mx,
  installer-mx,
