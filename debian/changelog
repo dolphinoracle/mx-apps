@@ -1,3 +1,11 @@
+mx-apps (17.05) mx; urgency=medium
+
+  * removed mx-debian-backports-installer (deprecated)
+  * removed mx-test-repo-installer (deprecated)
+  * added apt-transport-https
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 02 May 2017 20:35:24 -0700
+
 mx-apps (16.11.01) mx; urgency=medium
 
   * added ddm-mx

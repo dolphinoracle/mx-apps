@@ -13,7 +13,6 @@ Depends:
  mx-broadcom-manager,
  mx-clocky,
  mx-codecs,
- mx-debian-backports-installer,
  mx-defaultlook,
  mx-docs,
  mx-findshares,
@@ -29,7 +28,6 @@ Depends:
  mx-snapshot,
  mx-switchuser,
  mx-system-sounds,
- mx-test-repo-installer,
  mx-tools,
  mx-usb-unmounter,
  mx-user,
@@ -39,7 +37,8 @@ Depends:
  live-kernel-updater,
  live-usb-maker,
  live-usb-maker-gui,
- ddm-mx
+ ddm-mx,
+ apt-transport-https
 Breaks: docs-mx,
  install-meta-mx,
  installer-mx,
