@@ -20,7 +20,6 @@ Depends:
  mx-installer,
  mx-menu-editor,
  mx-packageinstaller,
- mx-panel-orientation,
  mx-remaster,
  mx-remastercc,
  mx-repo-manager,
