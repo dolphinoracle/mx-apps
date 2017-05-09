@@ -1,4 +1,10 @@
-mx-apps (17.05.01) mx; urgency=medium
+mx-apps (17.05.02) mx; urgency=medium
+
+  * removed mx-findshares
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Tue, 09 May 2017 15:01:24 -0700
+ 
+ mx-apps (17.05.01) mx; urgency=medium
 
   * removed mx-panel-orientation is prep for mx16.1
 

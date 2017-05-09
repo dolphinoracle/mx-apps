@@ -15,7 +15,6 @@ Depends:
  mx-codecs,
  mx-defaultlook,
  mx-docs,
- mx-findshares,
  mx-flash,
  mx-installer,
  mx-menu-editor,
