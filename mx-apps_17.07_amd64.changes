@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 24 Jul 2017 21:41:24 -0700
+Source: mx-apps
+Binary: mx-apps
+Architecture: source all
+Version: 17.07
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ mx-apps    - metapackage for MX applets
+Changes:
+ mx-apps (17.07) mx; urgency=medium
+ .
+   * stretch and tweak
+Checksums-Sha1:
+ f98c51eda6e651dce0dca478db46a84d016aa933 527 mx-apps_17.07.dsc
+ 4b1f41b460d9ed0f4ce0503b96955069119d2ccc 17280 mx-apps_17.07.tar.xz
+ fdea61b5d8ee0b9f835ee11cf8fd92e76de0f712 16486 mx-apps_17.07_all.deb
+Checksums-Sha256:
+ ccac5042298418c134215876887d6778d15d1e79259f0ff66ad6969e3ef609d6 527 mx-apps_17.07.dsc
+ e98331c847c83d583b64d768a61dbe8ac81c70eb4893bea87da05045ce346a61 17280 mx-apps_17.07.tar.xz
+ d13121c1a97363565df47b1cf3ff1940a6f138330b2dc8b666ac9da22061d531 16486 mx-apps_17.07_all.deb
+Files:
+ 78dd2aff1bb5e21395c5e2000655b0a5 527 system optional mx-apps_17.07.dsc
+ a7927be50abcadc4999e625969bb5c7c 17280 system optional mx-apps_17.07.tar.xz
+ bec0946215ffd478fbb7f8e7041593a0 16486 system optional mx-apps_17.07_all.deb
