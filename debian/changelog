@@ -1,3 +1,9 @@
+mx-apps (17.08) mx; urgency=medium
+
+  * Replace mx-broadcom-manager with mx-network-assistant
+
+ -- Timothy E. Harris <maintainer@mxrepo.com>  Fri, 25 Aug 2017 13:13:48 -0400
+
 mx-apps (17.07) mx; urgency=medium
 
   * stretch and tweak

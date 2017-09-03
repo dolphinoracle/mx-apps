@@ -10,12 +10,12 @@ Architecture: all
 Depends:
  mx-antix-libs,
  mx-bootrepair,
- mx-broadcom-manager,
  mx-clocky,
  mx-codecs,
  mx-docs,
  mx-installer,
  mx-menu-editor,
+ mx-network-assistant,
  mx-packageinstaller,
  mx-remaster,
  mx-remastercc,
