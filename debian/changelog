@@ -1,3 +1,9 @@
+mx-apps (17.09.01) mx; urgency=medium
+
+  * added mx-system metapackage to depends
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 15 Sep 2017 20:57:24 -0700
+
 mx-apps (17.08) mx; urgency=medium
 
   * Replace mx-broadcom-manager with mx-network-assistant
