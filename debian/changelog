@@ -1,4 +1,4 @@
-mx-apps (17.09.01-mx17) mx; urgency=medium
+mx-apps (17.09.01mx17) mx; urgency=medium
 
   * added mx-system metapackage to depends
 
