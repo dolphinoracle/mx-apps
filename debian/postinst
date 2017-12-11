@@ -4,6 +4,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
     apt-mark manual mx-antix-libs \
  mx-bootrepair \
  mx-clocky \
+ mx-conky \
  mx-codecs \
  mx-docs \
  mx-installer \
@@ -27,6 +28,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  live-kernel-updater \
  live-usb-maker \
  live-usb-maker-gui \
+ mx-idevice-mounter \
  ddm-mx
 fi
 

@@ -10,6 +10,7 @@ Architecture: all
 Depends:
  mx-antix-libs,
  mx-bootrepair,
+ mx-conky,
  mx-clocky,
  mx-codecs,
  mx-docs,
@@ -34,7 +35,9 @@ Depends:
  live-kernel-updater,
  live-usb-maker,
  live-usb-maker-gui,
- ddm-mx
+ mx-idevice-mounter,
+ ddm-mx,
+ conky-toggle-mx
 Breaks: docs-mx,
  install-meta-mx,
  installer-mx,
