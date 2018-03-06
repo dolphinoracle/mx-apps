@@ -1,3 +1,9 @@
+mx-apps (18.02mx17) mx; urgency=medium
+
+  * prepping for mx17.1 
+
+ -- Dolphin Oracle <dolphin@littlebyte>  Tue, 27 Feb 2018 20:16:27 -0500
+
 mx-apps (17.12mx17) mx; urgency=medium
 
   * added conky-toggle-mx 

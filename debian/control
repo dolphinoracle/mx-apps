@@ -32,9 +32,9 @@ Depends:
  mx-user,
  mx-viewer,
  mx-welcome,
+ mx-live-usb-maker,
  live-kernel-updater,
  live-usb-maker,
- live-usb-maker-gui,
  mx-idevice-mounter,
  ddm-mx,
  conky-toggle-mx

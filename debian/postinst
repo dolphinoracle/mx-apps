@@ -26,9 +26,10 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  mx-viewer \
  mx-welcome \
  live-kernel-updater \
+ mx-live-usb-maker \
  live-usb-maker \
- live-usb-maker-gui \
  mx-idevice-mounter \
+ conky-toggle-mx \
  ddm-mx
 fi
 
