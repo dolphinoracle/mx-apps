@@ -1,3 +1,9 @@
+mx-apps (18.06mx17) mx; urgency=medium
+
+  * added mx-cleanup 
+
+ -- Dolphin Oracle <dolphin@mx>  Tue, 12 Jun 2018 20:15:37 -0400
+
 mx-apps (18.02mx17) mx; urgency=medium
 
   * prepping for mx17.1 

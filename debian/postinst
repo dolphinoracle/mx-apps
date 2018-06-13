@@ -30,7 +30,9 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  live-usb-maker \
  mx-idevice-mounter \
  conky-toggle-mx \
- ddm-mx
+ ddm-mx \
+ mx-cleanup\
+ mx-antix-libs
 fi
 
 #DEBHELPER#
