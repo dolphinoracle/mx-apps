@@ -1,3 +1,9 @@
+mx-apps (18.08mx17) mx; urgency=medium
+
+  * added mx-boot-options 
+
+ -- Dolphin Oracle <dolphin@mx>  Mon, 06 Aug 2018 20:39:26 -0400
+
 mx-apps (18.06mx17) mx; urgency=medium
 
   * added mx-cleanup 

@@ -10,6 +10,7 @@ Architecture: all
 Depends:
  mx-antix-libs,
  mx-bootrepair,
+ mx-boot-options,
  mx-conky,
  mx-clocky,
  mx-codecs,
