@@ -15,7 +15,6 @@ Depends:
  mx-clocky,
  mx-codecs,
  mx-docs,
- mx-installer,
  mx-menu-editor,
  mx-network-assistant,
  mx-packageinstaller,

@@ -1,3 +1,9 @@
+mx-apps (19.02.01) mx; urgency=medium
+
+  * remove installer from mx-apps 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 08 Feb 2019 20:38:04 -0500
+
 mx-apps (18.08mx17) mx; urgency=medium
 
   * added mx-boot-options 
