@@ -3,7 +3,7 @@
 if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remove" ] ; then
     apt-mark manual mx-antix-libs \
  mx-bootrepair \
- mx-boot-options\
+ mx-boot-options \
  mx-clocky \
  mx-conky \
  mx-codecs \
@@ -31,7 +31,8 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  mx-idevice-mounter \
  conky-toggle-mx \
  ddm-mx \
- mx-cleanup\
+ mx-cleanup \
+ mx-installer \
  mx-antix-libs
 fi
 
