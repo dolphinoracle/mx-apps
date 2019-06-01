@@ -1,3 +1,9 @@
+mx-apps (19.06.01) mx; urgency=medium
+
+  * buster 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 01 Jun 2019 18:00:56 -0400
+
 mx-apps (19.02.01) mx; urgency=medium
 
   * remove installer from mx-apps 

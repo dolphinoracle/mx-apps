@@ -12,7 +12,6 @@ Depends:
  mx-bootrepair,
  mx-boot-options,
  mx-conky,
- mx-clocky,
  mx-codecs,
  mx-docs,
  mx-menu-editor,
