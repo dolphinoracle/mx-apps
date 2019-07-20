@@ -1,3 +1,33 @@
+mx-apps (19.07.01) mx; urgency=medium
+
+  * remove mx-antix-libs 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 20 Jul 2019 19:25:42 -0400
+
+mx-apps (19.06.01) mx; urgency=medium
+
+  * buster 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 01 Jun 2019 18:00:56 -0400
+
+mx-apps (19.02.01) mx; urgency=medium
+
+  * remove installer from mx-apps 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 08 Feb 2019 20:38:04 -0500
+
+mx-apps (18.08mx17) mx; urgency=medium
+
+  * added mx-boot-options 
+
+ -- Dolphin Oracle <dolphin@mx>  Mon, 06 Aug 2018 20:39:26 -0400
+
+mx-apps (18.06mx17) mx; urgency=medium
+
+  * added mx-cleanup 
+
+ -- Dolphin Oracle <dolphin@mx>  Tue, 12 Jun 2018 20:15:37 -0400
+
 mx-apps (18.03.01mx16) mx; urgency=medium
 
   * adding mx-live-usb-maker 

@@ -29,8 +29,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  mx-idevice-mounter \
  conky-toggle-mx \
  ddm-mx \
- mx-cleanup \
- mx-installer 
+ mx-cleanup 
 fi
 
 #DEBHELPER#
