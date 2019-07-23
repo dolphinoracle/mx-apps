@@ -1,3 +1,9 @@
+mx-apps (19.07.02) mx; urgency=medium
+
+  * remove mx-switchuser 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 22 Jul 2019 21:48:33 -0400
+
 mx-apps (19.07.01) mx; urgency=medium
 
   * remove mx-antix-libs 

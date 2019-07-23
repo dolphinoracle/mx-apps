@@ -21,7 +21,6 @@ Depends:
  mx-repo-manager,
  mx-select-sound,
  mx-snapshot,
- mx-switchuser,
  mx-system,
  mx-system-sounds,
  mx-tools,
