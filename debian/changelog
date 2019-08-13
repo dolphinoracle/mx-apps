@@ -1,3 +1,9 @@
+mx-apps (19.08.01) mx; urgency=medium
+
+  * add formatusb 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 12 Aug 2019 21:28:29 -0400
+
 mx-apps (19.07.02) mx; urgency=medium
 
   * remove mx-switchuser 

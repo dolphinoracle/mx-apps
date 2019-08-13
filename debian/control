@@ -21,7 +21,6 @@ Depends:
  mx-repo-manager,
  mx-select-sound,
  mx-snapshot,
- mx-system,
  mx-system-sounds,
  mx-tools,
  mx-tweak,
@@ -35,6 +34,7 @@ Depends:
  mx-idevice-mounter,
  ddm-mx,
  conky-toggle-mx,
+ formatusb,
  mx-cleanup
 Breaks: docs-mx,
  install-meta-mx,
