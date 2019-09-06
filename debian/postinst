@@ -5,6 +5,7 @@ if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remov
  mx-boot-options \
  mx-conky \
  mx-codecs \
+ mx-datetime \
  mx-docs \
  mx-menu-editor \
  mx-network-assistant \

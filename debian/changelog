@@ -1,3 +1,9 @@
+mx-apps (19.09.01) mx; urgency=medium
+
+  * add mx-datetime 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 06 Sep 2019 19:32:11 -0400
+
 mx-apps (19.08.01) mx; urgency=medium
 
   * add formatusb 

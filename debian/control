@@ -12,6 +12,7 @@ Depends:
  mx-boot-options,
  mx-conky,
  mx-codecs,
+ mx-datetime,
  mx-docs,
  mx-menu-editor,
  mx-network-assistant,
