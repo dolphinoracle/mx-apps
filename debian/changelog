@@ -1,3 +1,16 @@
+mx-apps (19.10.02) mx; urgency=medium
+
+  * fix chroot-resuce entry in postinst
+  * add bash-config 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 20 Oct 2019 12:45:34 -0400
+
+mx-apps (19.10.01) mx; urgency=medium
+
+  * add chroot-rescue (antiX)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 19 Oct 2019 22:10:42 -0400
+
 mx-apps (19.09.01) mx; urgency=medium
 
   * add mx-datetime 

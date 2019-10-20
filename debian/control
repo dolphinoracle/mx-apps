@@ -8,6 +8,7 @@ Standards-Version: 3.9.5
 Package: mx-apps
 Architecture: all
 Depends:
+ bash-config,
  mx-bootrepair,
  mx-boot-options,
  mx-conky,
@@ -35,6 +36,7 @@ Depends:
  mx-idevice-mounter,
  ddm-mx,
  conky-toggle-mx,
+ chroot-rescue-mx,
  formatusb,
  mx-cleanup
 Breaks: docs-mx,
