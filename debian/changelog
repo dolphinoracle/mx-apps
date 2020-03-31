@@ -1,3 +1,15 @@
+mx-apps (20.03.01) mx; urgency=medium
+
+  * update control file 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 30 Mar 2020 22:31:49 -0400
+
+mx-apps (19.10.03) mx; urgency=medium
+
+  * remove depend on chroot-rescue-mx 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 21 Oct 2019 12:17:14 -0400
+
 mx-apps (19.10.02) mx; urgency=medium
 
   * fix chroot-resuce entry in postinst

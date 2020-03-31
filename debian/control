@@ -1,7 +1,7 @@
 Source: mx-apps
 Section: system
 Priority: optional
-Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Maintainer: Dolphin Oracle <dolphinoracle@gmail.com>
 Build-Depends: debhelper (>=7.0)
 Standards-Version: 3.9.5
 
@@ -36,7 +36,6 @@ Depends:
  mx-idevice-mounter,
  ddm-mx,
  conky-toggle-mx,
- chroot-rescue-mx,
  formatusb,
  mx-cleanup
 Breaks: docs-mx,
